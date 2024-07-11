@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Maize Cercospora Leaf Spot",
+    "src": "./Maize_002.m4a"
+  },
+  {
+    "title": "Maize Common Rust",
+    "src": "/assets/Audio/Maize_002.mp3"
+  },
+  {
+    "title": "Maize Northern Leaf Blight",
+    "src": "./Audio/Maize_003.m4a"
+  },
+  {
+    "title": "Tomato Bacterial Spot",
+    "src": "./Audio/Tomato_001.m4a"
+  },
+  {
+    "title": "Tomato Early Blight",
+    "src": "./Audio/Tomato_002.m4a"
+  },
+  {
+    "title": "Tomato Leaf Mold",
+    "src": "./Audio/Tomato_003.m4a"
+  },
+  {
+    "title": "Tomato Septoria Leaf Spot",
+    "src": "./Audio/Tomato_004.m4a"
+  },
+  {
+    "title": "Tomato Spider Mites",
+    "src": "./Audio/Tomato_005.m4a"
+  },
+  {
+    "title": "Tomato Target Spot",
+    "src": "./Audio/Tomato_006.m4a"
+  },
+  {
+    "title": "Tomato Mosaic Virus",
+    "src": "./Audio/Tomato_007.m4a"
+  },
+  {
+    "title": "Tomato Yellow Leaf Curl Virus",
+    "src": "./Audio/Tomato_008.m4a"
+  }
+]

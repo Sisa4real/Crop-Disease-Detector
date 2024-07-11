@@ -1,0 +1,24 @@
+@import './base.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  #root {
+    @apply h-full;
+  }
+
+  html,
+  body {
+    @apply h-full;
+    @apply select-none;
+    @apply bg-gray-50;
+    @apply overflow-hidden;
+  }
+
+  .bg-img {
+    @apply absolute top-0 left-0 w-full h-full object-cover z-0; /* Refined styles for full-page background image */
+  }
+}
+
